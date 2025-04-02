@@ -2,7 +2,8 @@ import { useEffect, useState } from 'react';
 import './CategoryFilter.css';
 
 function CategoryFilter({
-  selectedCategories, setSelectedCategories,
+  selectedCategories,
+  setSelectedCategories,
 }: {
   selectedCategories: string[];
   setSelectedCategories: (categories: string[]) => void;
@@ -13,7 +14,7 @@ function CategoryFilter({
     const fetchCategories = async () => {
       try {
         const response = await fetch(
-          'https://localhost:5000/Water/GetProjectTypes'
+          'https://waterproject-burnside-backend.azurewebsites.net/Water/GetProjectTypes'
         );
         const data = await response.json();
         console.log('Fetched categories:', data);
