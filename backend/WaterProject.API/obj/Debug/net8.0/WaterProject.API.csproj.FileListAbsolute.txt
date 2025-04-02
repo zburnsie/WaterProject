@@ -1,6 +1,5 @@
 /Users/tech/Desktop/WaterProject/backend/WaterProject.API/bin/Debug/net8.0/appsettings.Development.json
 /Users/tech/Desktop/WaterProject/backend/WaterProject.API/bin/Debug/net8.0/appsettings.json
-/Users/tech/Desktop/WaterProject/backend/WaterProject.API/bin/Debug/net8.0/WaterProject.API.staticwebassets.endpoints.json
 /Users/tech/Desktop/WaterProject/backend/WaterProject.API/bin/Debug/net8.0/WaterProject.API
 /Users/tech/Desktop/WaterProject/backend/WaterProject.API/bin/Debug/net8.0/WaterProject.API.deps.json
 /Users/tech/Desktop/WaterProject/backend/WaterProject.API/bin/Debug/net8.0/WaterProject.API.runtimeconfig.json
@@ -121,9 +120,7 @@
 /Users/tech/Desktop/WaterProject/backend/WaterProject.API/obj/Debug/net8.0/scopedcss/bundle/WaterProject.API.styles.css
 /Users/tech/Desktop/WaterProject/backend/WaterProject.API/obj/Debug/net8.0/staticwebassets.build.json
 /Users/tech/Desktop/WaterProject/backend/WaterProject.API/obj/Debug/net8.0/staticwebassets.development.json
-/Users/tech/Desktop/WaterProject/backend/WaterProject.API/obj/Debug/net8.0/staticwebassets.build.endpoints.json
 /Users/tech/Desktop/WaterProject/backend/WaterProject.API/obj/Debug/net8.0/staticwebassets/msbuild.WaterProject.API.Microsoft.AspNetCore.StaticWebAssets.props
-/Users/tech/Desktop/WaterProject/backend/WaterProject.API/obj/Debug/net8.0/staticwebassets/msbuild.WaterProject.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
 /Users/tech/Desktop/WaterProject/backend/WaterProject.API/obj/Debug/net8.0/staticwebassets/msbuild.build.WaterProject.API.props
 /Users/tech/Desktop/WaterProject/backend/WaterProject.API/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.WaterProject.API.props
 /Users/tech/Desktop/WaterProject/backend/WaterProject.API/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.WaterProject.API.props
@@ -134,3 +131,5 @@
 /Users/tech/Desktop/WaterProject/backend/WaterProject.API/obj/Debug/net8.0/WaterProject.API.pdb
 /Users/tech/Desktop/WaterProject/backend/WaterProject.API/obj/Debug/net8.0/WaterProject.API.genruntimeconfig.cache
 /Users/tech/Desktop/WaterProject/backend/WaterProject.API/obj/Debug/net8.0/ref/WaterProject.API.dll
+/Users/tech/Desktop/WaterProject/backend/WaterProject.API/obj/Debug/net8.0/WaterProject.API.sourcelink.json
+/Users/tech/Desktop/WaterProject/backend/WaterProject.API/bin/Debug/net8.0/WaterProject.sqlite

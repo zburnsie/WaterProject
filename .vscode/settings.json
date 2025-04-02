@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "undefined/subscriptions/d811920a-9f66-46c5-942f-f3f8d6f26407/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/WaterProject-Burnside-Backend",
+  "appService.deploySubpath": "backend/WaterProject.API/publish"
+}
