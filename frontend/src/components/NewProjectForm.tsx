@@ -1,4 +1,4 @@
-import { FormEvent, useState } from 'react';
+import { useState } from 'react';
 import { Project } from '../types/Project';
 import { addProject } from '../api/ProjectsAPI';
 
