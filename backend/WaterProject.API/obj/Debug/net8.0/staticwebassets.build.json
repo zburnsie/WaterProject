@@ -1,12 +1,11 @@
 {
   "Version": 1,
-  "Hash": "PflvpXH3oJeR3Rg5ffPCN/4PaQPVm/ubw+CpQA+TjV0=",
+  "Hash": "QS/xFSucHrUgXqCmuzlBLy4Ec+KU95KXcI4NdEqZxXk=",
   "Source": "WaterProject.API",
   "BasePath": "_content/WaterProject.API",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "Assets": []
 }
